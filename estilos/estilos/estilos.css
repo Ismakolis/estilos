@@ -1,0 +1,24 @@
+/*selector Universal*/
+*{
+  background-color: rgb(171, 175, 136);
+
+
+}
+/*h1{
+color: ultraviolet !important;
+text-align: center !important;
+}*/
+
+/*selectores de tipo ID*/
+  #titulo{
+    color: rgb(211, 18, 18);
+    text-align: right;
+    
+ }
+
+/*selector tipo Clase*/
+.letra-grande{
+  color: rgb(38, 143, 17);
+
+  
+}
